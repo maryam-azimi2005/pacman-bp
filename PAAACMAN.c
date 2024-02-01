@@ -221,7 +221,7 @@ int main()
    system("cls");
    
    char map_choice;
-
+    //asdfghjklwertyuiodfghjkl
    int flag_for_map_choice = 0;
    char ** map_A = open_file(mapA);
    //change_first_ghost(map_A,rows_A,cols_A);
